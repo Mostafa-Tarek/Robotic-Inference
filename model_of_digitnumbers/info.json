@@ -1,0 +1,27 @@
+{
+    "caffe flavor": "NVIDIA",
+    "caffe version": "0.15.14",
+    "creation time": "2020-11-22 17:29:40.627979",
+    "dataset_id": "20201122-172724-f034",
+    "deploy file": "deploy.prototxt",
+    "digits version": "6.1.0",
+    "framework": "caffe",
+    "id": "20201122-172940-b84d",
+    "image dimensions": [
+        28,
+        28,
+        1
+    ],
+    "image resize mode": "squash",
+    "job id": "20201122-172940-b84d",
+    "labels file": "labels.txt",
+    "mean file": "mean.binaryproto",
+    "mean subtraction": "image",
+    "model file": "original.prototxt",
+    "name": "data_inverted",
+    "snapshot file": "snapshot_iter_21105.caffemodel",
+    "solver file": "solver.prototxt",
+    "status": "Done",
+    "train_val file": "train_val.prototxt",
+    "username": "mostafa"
+}
