@@ -9,13 +9,18 @@ The goal of this project is  to initiate my own inference project using `Nvidia 
 
 * **Second part is to build inference project from the `data collected` by mine. For more information see my `pdf`.**
 
+
 **Classifying digits numbers using LeNET** 
 
 ![Digit number](/images/Digit_numbers.png)
 
+
+
 **Classifying Mug using AlexNet** 
 
 ![AlexNet_mug](/images/AlexNet_mug.jpg)
+
+
 
 **Classifying Cup of Coffee using GoogleNet** 
 
