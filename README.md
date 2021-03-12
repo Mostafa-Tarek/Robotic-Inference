@@ -1,6 +1,6 @@
 # Inference Robot
 
-The goal of this project is  to initiate my own inference project using `Nvidia DIGITS workspace` to build `classifier` depending on `Transfer learning` like ( `LeNet`  ,`AlexNet` , `googleNet` ). 
+The goal of this project is  to initiate an inference project using `Nvidia DIGITS workspace` to build `classifier` depending on `Transfer learning` like ( `LeNet`  ,`AlexNet` , `googleNet` ). 
 
 ### Project divide into two Tasks:
 
