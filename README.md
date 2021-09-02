@@ -6,7 +6,7 @@ The goal of this project is  to initiate an inference project using `Nvidia DIGI
 
 * **First part is an inference project against supplied `digit image` recognition dataset**
 
-* **Second part is to build inference project from the `data collected` by mine. For more information see my `pdf`.**
+* **Second part is to build inference project from the `data collected` by me. For more information see my `pdf`.**
 
 
 
